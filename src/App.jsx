@@ -23,7 +23,7 @@ function App() {
                   type="button"
                   className="btn btn-outline-light btn-lg poppins-regular"
                 >
-                  Contact Us
+                  Contact Us!
                 </button>
               </a>
             </div>
